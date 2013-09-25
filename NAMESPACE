@@ -1,0 +1,32 @@
+import("methods")  
+import("DBI")      
+import("tframe")
+import("tframePlus")
+import("TSdbi")
+#importClassesFrom("DBI",..)
+import("rjson")
+#import("RJSONIO")
+
+export("json")
+
+## S4 Classes
+exportClasses(
+   "jsonDriver",
+   "TSjsonConnection"
+   )
+
+## S4 generics
+## none
+
+## S4 methods
+exportMethods(
+   "TSconnect",
+   "TSdates",
+   "TSdescription",
+   "TSdoc",
+   "TSlabel",
+   "TSsource",
+   "TSget",
+   "dbDisconnect"
+   )
+

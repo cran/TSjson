@@ -1,0 +1,12 @@
+6017294c32abba5d94acb47db2b8c055 *DESCRIPTION
+fe634487c5cc32fa3eb6441e2ceb7563 *NAMESPACE
+36988fe3177ae77ed505cda0c1cf43e1 *NEWS
+a95a9604e2a38f9069b4f12f7146ddda *R/TSdbiMethods.R
+6dbcf3063cf294c45275500d5a2cf925 *README
+c9989248b5487719d72b7f19af1c6997 *exec/alfred.py
+593811a436519ac3bbe160ec035d28b0 *exec/cansimGet.py
+04afa241e108e92167cecdc29b29d726 *inst/doc/Guide.Stex
+ac2a4a2aa1ba82290e089513372336ec *inst/doc/Guide.pdf
+c14f530562e31976463c086b06aa4348 *man/TSdbiMethods.Rd
+754e6e57ee1e9990d5198b2b8c88a482 *tests/statcan.R
+04afa241e108e92167cecdc29b29d726 *vignettes/Guide.Stex
